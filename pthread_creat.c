@@ -45,7 +45,7 @@ int main(void)
 		printf("鼠标读出的内容是[%s]\n",buf);
 	}
 
-	pthread_join();
+	//pthread_join();
 	return 0;
 }
 
